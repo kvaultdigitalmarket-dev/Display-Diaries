@@ -328,8 +328,8 @@ export default function TermsConditions() {
                   <ul className="space-y-3.5 text-xs md:text-sm font-sans font-light text-zinc-600">
                     <li className="flex items-start">
                       <span className="w-20 font-medium text-[#111111] uppercase tracking-wider">Email:</span>
-                      <a href="mailto:concierge@displaydiaries.com" className="text-[#C9A96E] hover:underline font-normal">
-                        concierge@displaydiaries.com
+                      <a href="mailto:crmsupport@Datavaultcenter.com" className="text-[#C9A96E] hover:underline font-normal">
+                        crmsupport@Datavaultcenter.com
                       </a>
                     </li>
                     <li className="flex items-start">
