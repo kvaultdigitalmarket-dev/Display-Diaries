@@ -8,7 +8,7 @@ const founders = [
   {
     name: 'Riya Jain',
     title: 'Co-Founder & Creative Director',
-    image: '/images/founder_riya.png',
+    image: '/images/riya.jpg',
     credentials: 'London College of Fashion Graduate',
     bullets: ['Stylist & Creative Director', 'Fashion Curator & Trend Consultant', 'High-Fashion Influencer'],
     bio: 'With an eye trained in London\'s avant-garde fashion scene, Riya curates the artistic vision of Display Diaries, ensuring every brand aligns with international styling standards.',
@@ -16,7 +16,7 @@ const founders = [
   {
     name: 'Nandini Bansal',
     title: 'Co-Founder & Strategic Director',
-    image: '/images/founder_nandini.png',
+    image: '/images/nandini.jpg',
     credentials: 'London Business School Alumna',
     bullets: ['Serial Entrepreneur', 'Luxury Brand Strategist', 'Strategic Visionary'],
     bio: 'Leveraging her business acumen from London, Nandini directs the operations and strategic growth, establishing relationships with global designers and luxury brand managers.',
@@ -52,7 +52,7 @@ export default function Founders() {
               className="flex flex-col"
             >
               {/* Image Container with elegant overlay */}
-              <div className="relative aspect-[3/4] w-full bg-[#FAF8F5] overflow-hidden group mb-8">
+              <div className="relative aspect-[4/5] w-full bg-[#FAF8F5] overflow-hidden group mb-8">
                 {/* Gold border outline inside */}
                 <div className="absolute inset-4 border border-[#C9A96E]/0 group-hover:border-[#C9A96E]/30 transition-all duration-700 z-10 pointer-events-none" />
                 
